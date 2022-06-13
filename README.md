@@ -22,7 +22,7 @@ git clone https://github.com/asifmuntasir/latest-react-template.git using your t
 
 ## Author
 
-👤 **Tufahel**
+👤 **Asif Muntasir**
 
 - GitHub: [Asif_Muntasir](https://github.com/asifmuntasir)
 - LinkedIn: [Asif_Muntasir](https://www.linkedin.com/in/asif-muntasir-shuaib/)
