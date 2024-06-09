@@ -6,7 +6,8 @@
 ![](pic.png)
 
 ## Built With
-- React
+- Vite App
+- React Latest
 
 ## Live Demo
 For the link to the live demo, [Click here]
